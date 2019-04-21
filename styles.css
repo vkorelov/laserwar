@@ -65,10 +65,9 @@ caption h3 {
   padding-bottom: 1.6rem;
 }
 
-.wellcome {
-  width: 75%;
-  margin: 0 auto;
-  padding-top: 2rem;
+.wellcome {  
+  
+  padding: 3rem 2rem 3rem 2rem;
 }
 
 .wellcome hr {
