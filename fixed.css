@@ -44,10 +44,6 @@ margin-right: 0px!important;
   will-change: transform;
 }
 
-.fixed {
-  background-image: url(assets/img/lasertag-eq.jpg)
-}
-
 /*--- iOS Fixed Background Image --*/
 .fixed-background {
   position: relative;
