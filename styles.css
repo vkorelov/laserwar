@@ -37,7 +37,7 @@ body {
 /*--- Landing Page Section --*/
 
 .home-inner {
-  background-image: url('img/camo-bg.jpg')
+  background-image: url('/assets/img/camo-bg.jpg')
 }
 
 .caption {
@@ -67,7 +67,7 @@ caption h3 {
 
 .wellcome {
   width: 75%;
-  
+  margin: 0 auto;
   padding-top: 2rem;
 }
 
