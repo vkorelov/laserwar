@@ -3,6 +3,7 @@
    overflow-x: hidden;
    font-family: 'Roboto', sans-serif;
    color: #505962;
+   cursor: url(img/cursor.cur), auto;
  }
 
  .offset:before {
